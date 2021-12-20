@@ -1,7 +1,7 @@
 {
-  "name": "com.lewis.socket",
-  "version": "0.1.0",
-  "description": "Socket io package",
-  "displayName": "Unity SocketIo",
+  "name": "com.lewismarshall.socketio",
+  "version": "3.0.4",
+  "description": "SocketIo package for Unity",
+  "displayName": "Unity SocketIo Client",
   "unity": "2018.3"
 }
